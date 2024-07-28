@@ -2,4 +2,4 @@ Flask
 python-dotenv
 requests
 bs4
-random
+random2
