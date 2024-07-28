@@ -1,5 +1,5 @@
 # AI Ad Copy Generator
-
+![logo](images/img3.png)
 ## Introduction
 The AI Ad Copy Generator Uses Cloudflare AI Worker and the Meta Llama 3.1-8B model to create high-quality, engaging ad copies tailored for marketing needs. This tool helps marketers and businesses generate compelling ad content quickly and efficiently.
 
@@ -39,10 +39,10 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Screenshots
 ![Home](images/img2.png)
-*Caption: Ui of AI Ad Copy Generator*
+*Ui of AI Ad Copy Generator*
 
 ![Ad Copy Generation](images/img4.png)
-*Caption: Ad Copy Generation in Action*
+*Ad Copy Generation in Action*
 
 ![Ad Copy Generation](images/img5.png)
-*Caption: Generated Ad copy*
+*Generated Ad copy*
