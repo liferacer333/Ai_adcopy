@@ -7,7 +7,7 @@ The AI Ad Copy Generator Uses Cloudflare AI Worker and the Meta Llama 3.1-8B mod
 - HTML
 - CSS
 - JavaScript
-- Flask
+- Python/Flask
 - Cloudflare AI Worker
 - AI Model: Meta Llama 3.1-8B-Instruct
 
