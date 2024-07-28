@@ -20,17 +20,29 @@ The AI Ad Copy Generator Uses Cloudflare AI Worker and the Meta Llama 3.1-8B mod
 
 ## Installation
 1. Clone the repository:
+   ```
    git clone https://github.com/liferacer333/Ai_adcopy.git
+   ```
 2. Navigate to the project directory
+   ```
    cd Ai_adcopy
+   ```
 3. Install dependencies:
+   ```
    pip install -r requirements.txt
+   ```
 4. Create a .env file in the root directory of the project and add your environment variables:
+   ```
    API_BASE_URL="https://api.cloudflare.com/client/v4/accounts/{id}/ai/run/"
+   ```
+   ```
    API_KEY="{Your_Api_Key}"
+   ```
 ## Usage
 1. Run the application
-  python app.py
+   ```
+   python app.py
+   ```
 2. Access the application via your browser at http://localhost:0000
 
 ## Contributing
