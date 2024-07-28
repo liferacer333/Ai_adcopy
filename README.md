@@ -51,7 +51,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Screenshots
 ![Home](images/img2.png)
-*Ui of AI Ad Copy Generator*
+*Ad Copy Generator*
 
 ![Ad Copy Generation](images/img4.png)
 *Ad Copy Generation in Action*
